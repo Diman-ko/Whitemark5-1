@@ -1,0 +1,9 @@
+.btn {
+    padding: 0;
+    font-family: "Raleway", "Arial", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    border: none;
+    text-align: center;
+}
